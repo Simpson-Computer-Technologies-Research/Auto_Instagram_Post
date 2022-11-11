@@ -1,0 +1,16 @@
+# Insta Auto ![Stars](https://img.shields.io/github/stars/realTristan/InstaAuto?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/InstaAuto?label=Watchers)
+![instagram-banner-01 png](https://user-images.githubusercontent.com/75189508/186439141-db02abf2-d4c5-4b81-84e6-04536fa7fffd.png)
+
+# About
+Automatically uploads images to Instagram with Selenium
+
+# License
+MIT License
+
+Copyright (c) 2022 Tristan Simpson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

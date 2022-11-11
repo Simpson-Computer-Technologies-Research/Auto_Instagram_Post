@@ -1,4 +1,4 @@
-# Insta Auto ![Stars](https://img.shields.io/github/stars/realTristan/InstaAuto?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/InstaAuto?label=Watchers)
+# Insta Auto ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/Auto_Instagram_Post?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/Auto_Instagram_Post?label=Watchers)
 ![instagram-banner-01 png](https://user-images.githubusercontent.com/75189508/186439141-db02abf2-d4c5-4b81-84e6-04536fa7fffd.png)
 
 # About
